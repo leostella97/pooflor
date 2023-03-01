@@ -1,5 +1,4 @@
-# pooflor
-Projeto de criação de uma flor no paradigma de Programação Orientada a Objetos
+# Projeto de criação de uma flor no paradigma de Programação Orientada a Objetos
 
 • Escreva uma classe chamada Flor que tenha três atributos (um do tipo String, um int e um float) representando o nome da flor, seu número de pétalas e o preço. 
 <br>
